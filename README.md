@@ -2,7 +2,7 @@
 This repository contains Python code for classifying activities and performing regression analysis using machine learning models. The analysis is conducted on a dataset from the MHEALTH (Mobile Health) dataset, focusing on various classification algorithms and linear regression.
 
 **Objective**
-To develop a comprehensive understanding of web server setup and network traffic analysis, with a focus on the HTTP protocol, by applying various machine learning models to a dataset and evaluating their performance.
+To develop a comprehensive understanding of various machine learning concepts by applying various machine learning models to a dataset and evaluating their performance.
 
 **Overview**
 The provided code performs the following tasks:
